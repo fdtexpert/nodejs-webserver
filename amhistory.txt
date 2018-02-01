@@ -1,0 +1,53 @@
+    1  ls
+    2  ls -a
+    3  pwd
+    4  cwd
+    5  cd
+    6  cd n:
+    7  pwd
+    8  pwd
+    9  cd\n:\python_fin
+   10  cd n:\python_fin
+   11  pwd
+   12  ls
+   13  fing . -name "*.py"
+   14  find . -name "*.py"
+   15  n:
+   16  cwd
+   17  cwd()
+   18  pwd
+   19  cd\n:
+   20  cd n:
+   21  pwd
+   22  cd python_fin
+   23  dir
+   24  cd typescript
+   25  pwd
+   26  find . -name \"*.ts\" -type f | tsc
+   27  find . -name "*.ts" -type f | tsc
+   28  find . -name "*.ts" -type f | tsc
+   29  find . -name "*.ts" -type f 
+   30  find . -name "*.ts" -type f > @aa.txt
+   31  dir
+   32  tsc @aa.txt
+   33  tsc @@aa.txt
+   34  dir
+   35  dir
+   36  cd node-webserver
+   37  dir
+   38  ls -al ~/.ssh
+   39  ls -al *.ssh
+   40  ssh-keygen -t rsa -b 4096 -C 'amusamair@yahoo.com'
+   41  ls -al ~/.ssh
+   42  eval "$(ssh-agent -s)"
+   43  ssh-add ~/.ssh/id.rsa
+   44  dir
+   45  ls -al ~/.ssh/
+   46  ssh-add ~/.ssh/id_rsa
+   47  clip < ~/.ssh/id_rsa.pub
+   48  ssh -T git@github.com
+   49  git remote add origin https://github.com/fdtexpert/nodejs-webserver.git
+   50  git push -u origin master
+   51  help
+   52  history
+   53  history >amhistory.txt

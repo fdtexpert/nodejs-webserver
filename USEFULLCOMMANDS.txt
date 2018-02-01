@@ -1,0 +1,32 @@
+npm init    //initial 
+npm install <name> --save
+
+
+
+node <js file>
+nodemon <js file>
+
+
+GIT SSH KEY
+--------------------
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C 'amusamair@yahoo.com'
+ls -al ~/.ssh
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id.rsa
+
+ssh-add ~/.ssh/id_rsa
+clip < ~/.ssh/id_rsa.pub  (copy yo clipborad)
+ssh -T git@github.com
+
+ADDING to GITHUB
+-----------------
+git init
+git status
+
+git add *.*
+git commit -m 'Message to Save'
+
+git remote add origin https://github.com/fdtexpert/nodejs-webserver.git
+git push -u origin master
+
