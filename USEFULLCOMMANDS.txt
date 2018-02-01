@@ -30,3 +30,22 @@ git commit -m 'Message to Save'
 git remote add origin https://github.com/fdtexpert/nodejs-webserver.git
 git push -u origin master
 
+HEROKU
+------
+ heroku login
+   4 heroku keys:add
+   5 heroku keys
+   6 ssh -v git@heroku.com
+   
+   8 npm start
+   
+   9 git add .
+  10 git status
+  11 git commit -m 'Setup start script and heroku port'
+  12 git push
+  
+  13 heroku create
+  14 git push heroku
+  
+  15 heroku open (open in browser)
+  
